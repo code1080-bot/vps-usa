@@ -1,0 +1,4 @@
+{
+  "name": "USA-VPN",
+  "postCreateCommand": "bash setup-vpn.sh"
+}
